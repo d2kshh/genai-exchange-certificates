@@ -21,13 +21,11 @@ Here you will find the certificates I earned after completing these cutting-edge
 
 The certificates below correspond to the courses listed above:
 
-- `certificates/vertex ai.png`  
-- `certificates/prompt.png`  
-- `certificates/multimodality.png`  
-- `certificates/applications.png`  
-- `certificates/streamlit.png`  
+| Vertex AI | Prompt | Multimodality | Applications | Streamlit |
+| --------- | ------ | ------------- | ------------ | --------- |
+| ![Vertex AI](certificates/vertex%20ai.png) | ![Prompt](certificates/prompt.png) | ![Multimodality](certificates/multimodality.png) | ![Applications](certificates/applications.png) | ![Streamlit](certificates/streamlit.png) |
 
-*Note: You can click on the images (once uploaded) to view/download the certificates.*
+*Click on any image to view/download the certificate.*
 
 ---
 
