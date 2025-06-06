@@ -29,6 +29,16 @@ The certificates below correspond to the courses listed above:
 
 ---
 
+## 🏁 Final Certificate of Completion
+
+This certificate confirms the successful completion of all five courses in the **Gen AI Exchange Program**:
+
+![Final Certificate](certificates/Hack2skill-Certificate.png)
+
+*Click the image to view/download the full certificate.*
+
+ ---
+ 
 ## About the Program
 
 The **Google Cloud Gen AI Exchange Program** equips learners with practical skills in generative AI, focusing on real-world applications and hands-on projects using Google Cloud’s latest AI services.
